@@ -1,13 +1,13 @@
-package com.example.demo;
+package com.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SbibankApplication {
+public class SbibankappApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SbibankApplication.class, args);
+		SpringApplication.run(SbibankappApplication.class, args);
 	}
 
 }
